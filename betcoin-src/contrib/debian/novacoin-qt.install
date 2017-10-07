@@ -1,0 +1,5 @@
+Betcoin-qt usr/bin
+share/pixmaps/Betcoin32.xpm usr/share/pixmaps
+share/pixmaps/Betcoin80.xpm usr/share/pixmaps
+debian/Betcoin-qt.desktop usr/share/applications
+debian/Betcoin-qt.protocol usr/share/kde4/services/

@@ -1,0 +1,2 @@
+debian/bin/Betcoind usr/bin
+src/Betcoind usr/lib/Betcoin

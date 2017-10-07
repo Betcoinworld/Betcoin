@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Betcoin
+Comment=Betcoin P2P Cryptocurrency
+Comment[ru]=Betcoin, P2P криптовалюта
+Comment[fr]=Betcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Betcoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/Betcoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/Betcoin80.xpm
+MimeType=x-scheme-handler/Betcoin;
+Categories=Office;
